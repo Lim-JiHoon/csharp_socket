@@ -1,0 +1,17 @@
+C:\c#\MySocket2\MySocket2\bin\Debug\net6.0-windows\MySocket2.exe
+C:\c#\MySocket2\MySocket2\bin\Debug\net6.0-windows\MySocket2.deps.json
+C:\c#\MySocket2\MySocket2\bin\Debug\net6.0-windows\MySocket2.runtimeconfig.json
+C:\c#\MySocket2\MySocket2\bin\Debug\net6.0-windows\MySocket2.dll
+C:\c#\MySocket2\MySocket2\bin\Debug\net6.0-windows\MySocket2.pdb
+C:\c#\MySocket2\MySocket2\obj\Debug\net6.0-windows\MySocket2.csproj.AssemblyReference.cache
+C:\c#\MySocket2\MySocket2\obj\Debug\net6.0-windows\MySocket2.Form1.resources
+C:\c#\MySocket2\MySocket2\obj\Debug\net6.0-windows\MySocket2.csproj.GenerateResource.cache
+C:\c#\MySocket2\MySocket2\obj\Debug\net6.0-windows\MySocket2.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\MySocket2\MySocket2\obj\Debug\net6.0-windows\MySocket2.AssemblyInfoInputs.cache
+C:\c#\MySocket2\MySocket2\obj\Debug\net6.0-windows\MySocket2.AssemblyInfo.cs
+C:\c#\MySocket2\MySocket2\obj\Debug\net6.0-windows\MySocket2.csproj.CoreCompileInputs.cache
+C:\c#\MySocket2\MySocket2\obj\Debug\net6.0-windows\MySocket2.dll
+C:\c#\MySocket2\MySocket2\obj\Debug\net6.0-windows\refint\MySocket2.dll
+C:\c#\MySocket2\MySocket2\obj\Debug\net6.0-windows\MySocket2.pdb
+C:\c#\MySocket2\MySocket2\obj\Debug\net6.0-windows\MySocket2.genruntimeconfig.cache
+C:\c#\MySocket2\MySocket2\obj\Debug\net6.0-windows\ref\MySocket2.dll
